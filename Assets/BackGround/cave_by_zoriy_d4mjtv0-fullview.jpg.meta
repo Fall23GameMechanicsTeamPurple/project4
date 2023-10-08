@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cave_by_zoriy_d4mjtv0-fullview_0: -7430208365392479526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
